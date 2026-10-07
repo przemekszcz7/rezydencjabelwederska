@@ -1,0 +1,6 @@
+{
+  "name": "Rezydencja Belwederska",
+  "description": "Rezydencja Belwederska w Mikułowicach koło Buska-Zdroju — elegancka sala balowa i bankietowa. Cotygodniowe dancingi w piątki i soboty o 19:00 oraz wynajem sali na uroczystości i spotkania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
